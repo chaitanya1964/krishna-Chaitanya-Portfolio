@@ -23,10 +23,10 @@ const HeroSection: React.FC = () => {
 
             <div className="flex flex-wrap gap-4">
               <a 
-                href="#projects" 
+                href="https://drive.google.com/file/d/1iXHJ9rSewKCYM4eOcKMYZzbiBgyvbc_A/view?usp=sharing"
                 className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors duration-300"
               >
-                View Projects
+                View CV
               </a>
               <a 
                 href="#contact" 
